@@ -5,7 +5,7 @@
 HELP.md
 # Log file
 *.log
-
+target/
 # BlueJ files
 *.ctxt
 
